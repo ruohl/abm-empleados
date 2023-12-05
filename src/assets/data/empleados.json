@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Juan Pérez",
+      "jobTitle": "Desarrollador",
+      "department": "Tecnología"
+    },
+    {
+      "id": 2,
+      "name": "María González",
+      "jobTitle": "Diseñador UX",
+      "department": "Diseño"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Rodríguez",
+      "jobTitle": "Analista de Datos",
+      "department": "Analítica"
+    },
+    {
+      "id": 4,
+      "name": "Ana Martínez",
+      "jobTitle": "Gerente de Proyectos",
+      "department": "Gestión de Proyectos"
+    },
+    {
+      "id": 5,
+      "name": "Pedro Sánchez",
+      "jobTitle": "Especialista en QA",
+      "department": "Calidad"
+    }
+  ]
+  
